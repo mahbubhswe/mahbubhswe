@@ -5,13 +5,13 @@
 <img align="right" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" height="160px" width="180px">
 - 🔭 I’m currently working on Cash Earning https://cashearning.vercel.app/
 
-- 🌱 I have free fee to code in **JavaScript, TypeScript, React Js, Next Js and MongoDB**
+- 🌱 I have free fee to code in **Dart, Flutter, Firebase, JavaScript, TypeScript, React Js, Next Js and MongoDB**
 
 - 👨‍💻 My Portfolio at [https://mahbub.vercel.app/](https://mahbub.vercel.app/)
 
 - 📝 I regularly write articles on [https://devprogrammer.vercel.app/](https://devprogrammer.vercel.app/)
 
-- 💬 Ask me about **JavaScript, Node, Express, React and Next Js**
+- 💬 Ask me about **Dart, Flutter, Firebase, JavaScript, Node, Express, React and Next Js**
 
 - 📫 How to reach me **programmermahbub@gmail.com**
 
