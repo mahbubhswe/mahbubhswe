@@ -1,52 +1,89 @@
-<img src="https://camo.githubusercontent.com/05c04c897f273c333a15852f1284db3cbc658c684be4d194a56a551793f7a0a7/68747470733a2f2f7777772e746563686e6f6c6f616465722e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30312f486972652d52656163742d4e61746976652e676966">
+<!-- Banner -->
+<p align="center">
+  <img src="https://www.technoloader.com/blog/wp-content/uploads/2020/01/Hire-React-Native.gif" width="100%" alt="Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Mahbub Hasan</h1>
-<h3 align="center">Software Developer from Bangladesh</h3>
-<img align="right" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" height="160px" width="180px">
-- 🔭 I’m currently working on Cash Earning https://cashearning.vercel.app/
+<h3 align="center">Flutter Developer • Bangladesh</h3>
 
-- 🌱 I have free fee to code in **Dart, Flutter, Firebase, JavaScript, TypeScript, React Js, Next Js and MongoDB**
-
-- 👨‍💻 My Portfolio at [https://mahbub.vercel.app/](https://mahbub.vercel.app/)
-
-- 📝 I regularly write articles on [https://devprogrammer.vercel.app/](https://devprogrammer.vercel.app/)
-
-- 💬 Ask me about **Dart, Flutter, Firebase, JavaScript, Node, Express, React and Next Js**
-
-- 📫 How to reach me **programmermahbub@gmail.com**
-
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://linkedin.com/in/mahbubswe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahbubswe" height="30" width="40" /></a>
-<a href="https://fb.com/mahbubswe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahbubswe" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc-cmq4aqhm6uhvvoktrssjq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc-cmq4aqhm6uhvvoktrssjq" height="30" width="40" /></a>
-</p>
-<h1 align="left">Familiar:</h1>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-   </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
-<h1 align="left">Comfortable:</h1>
+<!-- Badges -->
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>     
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://mahbub.vercel.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-mahbub.vercel.app-000?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="https://mahbubcv.vercel.app" target="_blank">
+    <img alt="CV" src="https://img.shields.io/badge/CV-Open-1e90ff?style=for-the-badge&logo=readthedocs"/>
+  </a>
+  <a href="https://play.google.com/store/apps/developer?id=App+Seba" target="_blank">
+    <img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-App%20Seba-3bd671?style=for-the-badge&logo=googleplay"/>
+  </a>
+  <a href="mailto:programmermahbub@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-programmermahbub%40gmail.com-ff4d4f?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mahbubhswe" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@mahbubhswe-111?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
+<hr/>
 
+<h2>🚀 About me</h2>
+<ul>
+  <li>Flutter-first <b>App Developer</b>, comfortable across full-stack (Firebase / Node / Express / REST / Prisma).</li>
+  <li>Publisher of <b>App Seba</b> on Google Play (20+ live apps; ~1M+ installs).</li>
+  <li>Currently working as <b>App Developer at Soft Tech</b>.</li>
+  <li>Enjoys problem solving (DSA/OOP) and building maintainable code.</li>
+</ul>
+
+<h2>🔭 Featured Projects</h2>
+<ul>
+  <li><b>Cash Earning</b> – Rewards & earnings web app <br/>
+    <i>Web</i>: React, Next.js, Firebase • 
+    <a href="https://cashearning.vercel.app/">Live</a>
+  </li>
+  <li><b>App Seba</b> – Multi-product apps & services <br/>
+    <i>Web</i>: React, Next.js, MUI • 
+    <a href="https://appseba.com">Live</a>
+  </li>
+  <li><b>Project Help Line</b> – Final year project helper portal <br/>
+    <i>Web</i>: React, Next.js, MUI • 
+    <a href="https://finalyearprojecthelp.vercel.app">Live</a>
+  </li>
+  <li><b>Coffee Shop</b> – Demo shop with auth & payments <br/>
+    <i>Web</i>: React, Next.js, MongoDB, SSLCommerz • 
+    <a href="https://coffee-shop-jet.vercel.app">Live</a>
+  </li>
+  <li><b>Health Consulting Care</b> – Medical consulting site <br/>
+    <i>Web</i>: React, Next.js, MongoDB • 
+    <a href="https://appseba-hcc.vercel.app">Live</a>
+  </li>
+  <li><b>Google Play (App Seba)</b> – Multiple Flutter apps with GetX, ObjectBox, Firebase <br/>
+    <a href="https://play.google.com/store/apps/developer?id=App+Seba">Publisher Link</a>
+  </li>
+</ul>
+
+<h2>🧰 Tech I Use</h2>
+<p>
+  <b>Programming:</b> Dart, C, Java <br/>
+  <b>Mobile:</b> Flutter, GetX <br/>
+  <b>Web:</b> JavaScript, Next.js, Material UI <br/>
+  <b>Backend:</b> Node.js, Express.js, Prisma, Firebase, ObjectBox <br/>
+  <b>Auth:</b> Firebase Auth, JWT <br/>
+  <b>Tools:</b> Git/GitHub, Postman, VS Code, Vercel
+</p>
+
+<h2>📚 Education</h2>
+<p>B.Sc. in Software Engineering – Daffodil International University (2018–2022), Dhaka</p>
+
+<h2>🌐 Languages</h2>
+<p>Bangla (Fluent) • English (Limited working) • Hindi (Limited working)</p>
+
+<h2>📫 Contact</h2>
+<ul>
+  <li>Email: programmermahbub@gmail.com</li>
+  <li>Portfolio: <a href="https://mahbub.vercel.app">mahbub.vercel.app</a></li>
+  <li>Google Play: <a href="https://play.google.com/store/apps/developer?id=App+Seba">App Seba</a></li>
+</ul>
+
+<hr/>
+<p align="center"><sub>Last updated: Aug 2025 • Based on my CV</sub></p>
