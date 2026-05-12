@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahbub Hasan</h1>
-<h3 align="center">Flutter Developer • Bangladesh</h3>
+<h3 align="center">Full Stack Developer (Flutter • Next.js • Firebase • Node.js)</h3>
 
 <!-- Badges -->
 <p align="center">
@@ -20,70 +20,84 @@
   <a href="mailto:programmermahbub@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-programmermahbub%40gmail.com-ff4d4f?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/mahbubhswe" target="_blank">
+  <a href="https://github.com/mahbubhswe">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@mahbubhswe-111?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-<hr/>
+---
 
-<h2>🚀 About me</h2>
-<ul>
-  <li>Flutter-first <b>App Developer</b>, comfortable across full-stack (Firebase / Node / Express / REST / Prisma).</li>
-  <li>Publisher of <b>App Seba</b> on Google Play (20+ live apps; ~1M+ installs).</li>
-  <li>Currently working as <b>App Developer at Soft Tech</b>.</li>
-  <li>Enjoys problem solving (DSA/OOP) and building maintainable code.</li>
-</ul>
+## 🚀 About Me
+- Full Stack Developer specializing in **Flutter, Next.js, Firebase, and Node.js**
+- Experienced in building **real-world production systems**
+- Publisher of **App Seba** on Google Play (20+ apps, ~1M+ installs)
+- Focused on **scalable architecture, real-time apps, and offline-first systems**
+- Currently working as **App Developer at Soft Tech**
 
-<h2>🔭 Featured Projects</h2>
-<ul>
-  <li><b>Cash Earning</b> – Rewards & earnings web app <br/>
-    <i>Web</i>: React, Next.js, Firebase • 
-    <a href="https://cashearning.vercel.app/">Live</a>
-  </li>
-  <li><b>App Seba</b> – Multi-product apps & services <br/>
-    <i>Web</i>: React, Next.js, MUI • 
-    <a href="https://appseba.com">Live</a>
-  </li>
-  <li><b>Project Help Line</b> – Final year project helper portal <br/>
-    <i>Web</i>: React, Next.js, MUI • 
-    <a href="https://finalyearprojecthelp.vercel.app">Live</a>
-  </li>
-  <li><b>Coffee Shop</b> – Demo shop with auth & payments <br/>
-    <i>Web</i>: React, Next.js, MongoDB, SSLCommerz • 
-    <a href="https://coffee-shop-jet.vercel.app">Live</a>
-  </li>
-  <li><b>Health Consulting Care</b> – Medical consulting site <br/>
-    <i>Web</i>: React, Next.js, MongoDB • 
-    <a href="https://appseba-hcc.vercel.app">Live</a>
-  </li>
-  <li><b>Google Play (App Seba)</b> – Multiple Flutter apps with GetX, ObjectBox, Firebase <br/>
-    <a href="https://play.google.com/store/apps/developer?id=App+Seba">Publisher Link</a>
-  </li>
-</ul>
+---
 
-<h2>🧰 Tech I Use</h2>
-<p>
-  <b>Programming:</b> Dart, C, Java <br/>
-  <b>Mobile:</b> Flutter, GetX <br/>
-  <b>Web:</b> JavaScript, Next.js, Material UI <br/>
-  <b>Backend:</b> Node.js, Express.js, Prisma, Firebase, ObjectBox <br/>
-  <b>Auth:</b> Firebase Auth, JWT <br/>
-  <b>Tools:</b> Git/GitHub, Postman, VS Code, Vercel
-</p>
+## 🔥 Core Expertise
+- Cross-platform Mobile Apps (Flutter + GetX)
+- Scalable Web Applications (Next.js + React)
+- Backend APIs (Node.js, Express.js, Prisma)
+- Firebase & Real-time Systems
+- Payment Integration (SSLCommerz, bKash, In-App Purchase)
+- Offline-first Architecture
+- WebRTC / Socket-based Communication
 
-<h2>📚 Education</h2>
-<p>B.Sc. in Software Engineering – Daffodil International University (2018–2022), Dhaka</p>
+---
 
-<h2>🌐 Languages</h2>
-<p>Bangla (Fluent) • English (Limited working) • Hindi (Limited working)</p>
+## 🧠 Featured Systems I Built
 
-<h2>📫 Contact</h2>
-<ul>
-  <li>Email: programmermahbub@gmail.com</li>
-  <li>Portfolio: <a href="https://mahbub.vercel.app">mahbub.vercel.app</a></li>
-  <li>Google Play: <a href="https://play.google.com/store/apps/developer?id=App+Seba">App Seba</a></li>
-</ul>
+### 🏬 Multi-Vendor E-commerce System
+Scalable marketplace platform with vendor management, product catalog, cart, checkout, and order tracking using role-based architecture.
 
-<hr/>
-<p align="center"><sub>Last updated: Aug 2025 • Based on my CV</sub></p>
+### 🧾 POS System (Offline-first)
+Retail POS system with offline billing, inventory management, FIFO stock control, and real-time sync when online.
+
+### 📊 Accounting System
+Business finance system with ledger management, income/expense tracking, and automated reporting system.
+
+### 🏥 Healthcare System
+Role-based healthcare platform with patient records, appointment scheduling, and secure staff access control.
+
+---
+
+## 🌐 Web Projects
+- Cash Earning Platform – React, Next.js, Firebase  
+- App Seba Ecosystem – Multi-service platform  
+- Final Year Project Helper Portal  
+- Coffee Shop (Payments integrated)  
+- Health Consulting Care Platform  
+
+---
+
+## 🧰 Tech Stack
+**Mobile:** Flutter, GetX, ObjectBox  
+**Frontend:** React.js, Next.js, Material UI  
+**Backend:** Node.js, Express.js, Prisma, Firebase  
+**Database:** Firebase Firestore, MongoDB  
+**Auth:** Firebase Auth, JWT  
+**Tools:** Git, GitHub, Postman, Vercel  
+
+---
+
+## 📚 Education
+B.Sc. in Software Engineering  
+Daffodil International University (2018–2022)
+
+---
+
+## 🌍 Languages
+Bangla (Native) • English (Working) • Hindi (Basic)
+
+---
+
+## 📫 Contact
+- Email: programmermahbub@gmail.com  
+- Portfolio: https://mahbub.vercel.app  
+- Google Play: App Seba Publisher  
+
+---
+
+<p align="center"><sub>Last updated: 2026 • Built based on real production systems</sub></p>
